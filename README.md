@@ -1,3 +1,5 @@
+# Please refer the `wiki` page https://github.com/SudirKrishnaaRS/NextJS-15-CC/wiki to view the notes
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
