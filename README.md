@@ -2,6 +2,49 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+# Intro to NextJS 15
+
+## Why NextJs?
+
+![image](https://github.com/user-attachments/assets/6e56e08d-2ccc-4cae-8963-3270546998a5)
+
+
+## What is NextJs?
+
+![image](https://github.com/user-attachments/assets/121c95a3-ba93-44ca-a40b-1107799a2365)
+![image](https://github.com/user-attachments/assets/d015d0a4-ea00-4d7f-8490-1f417e63b92a)
+
+
+### What this Repo consist of and covers
+
+![image](https://github.com/user-attachments/assets/ec2a1457-7d7a-4f0d-b645-fb0e08892b31)
+![image](https://github.com/user-attachments/assets/1c1086a6-90c6-43e2-9a75-f88818fc14f0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
