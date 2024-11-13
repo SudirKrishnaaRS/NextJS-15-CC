@@ -1,5 +1,5 @@
 const ForgotPassword = () => {
-  return <div>ForgotPassword</div>;
+  return <div>Forgot Password</div>;
 };
 
 export default ForgotPassword;
