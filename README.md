@@ -27,7 +27,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ![image](https://github.com/user-attachments/assets/e3fa1d2a-aaf9-40c7-8e1a-6c7a2bf9e1c2)
 
 
+## Server Components vs Client Components
 
+![image](https://github.com/user-attachments/assets/712531a8-25e0-4594-a7e5-c4e79a6607de)
 
 
 
