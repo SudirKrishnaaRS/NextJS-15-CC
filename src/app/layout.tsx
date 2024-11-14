@@ -32,6 +32,10 @@ export default function RootLayout({
           <p>Welcome to Next.js 15</p>
         </header>
         {children}
+        <footer className="bg-slate-900 text-white p-4 text-center">
+          Curated by{" "}
+          <a href="https://github.com/SudirKrishnaaRS">Sudir Krishnaa RS</a>
+        </footer>
       </body>
     </html>
   );
