@@ -22,7 +22,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ![image](https://github.com/user-attachments/assets/1c1086a6-90c6-43e2-9a75-f88818fc14f0)
 
 
-
 ##  React Server Components
 
 ![image](https://github.com/user-attachments/assets/e3fa1d2a-aaf9-40c7-8e1a-6c7a2bf9e1c2)
