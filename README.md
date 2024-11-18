@@ -1,6 +1,8 @@
-# Please refer the `wiki` page https://github.com/SudirKrishnaaRS/NextJS-15-CC/wiki to view the notes
+# Please refer to the `wiki` page https://github.com/SudirKrishnaaRS/NextJS-15-CC/wiki to view the notes
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+
+***
 
 
 # Intro to NextJS 15
@@ -8,7 +10,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Why NextJs?
 
 ![image](https://github.com/user-attachments/assets/6e56e08d-2ccc-4cae-8963-3270546998a5)
-
 
 ## What is NextJs?
 
@@ -21,8 +22,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ![image](https://github.com/user-attachments/assets/ec2a1457-7d7a-4f0d-b645-fb0e08892b31)
 ![image](https://github.com/user-attachments/assets/1c1086a6-90c6-43e2-9a75-f88818fc14f0)
 
+***
 
-##  React Server Components
+#  React Server Components
 
 ![image](https://github.com/user-attachments/assets/e3fa1d2a-aaf9-40c7-8e1a-6c7a2bf9e1c2)
 
@@ -32,6 +34,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ![image](https://github.com/user-attachments/assets/712531a8-25e0-4594-a7e5-c4e79a6607de)
 
 
+## When to use? Server or Client Component (Practical use cases)
+
+![image](https://github.com/user-attachments/assets/671d38c4-1bdd-49c1-ac29-a1a2cac64618)
 
 
 
@@ -49,6 +54,28 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+# Running the Project
+
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
