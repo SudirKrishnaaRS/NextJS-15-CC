@@ -4,7 +4,7 @@ export const users = [
   { id: 2, name: "John Wick" },
 ];
 
-// getUsers
+// GET - getUsers
 export async function GET() {
   return Response.json(users);
 }
