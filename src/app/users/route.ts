@@ -9,7 +9,7 @@ export async function GET() {
   return Response.json(users);
 }
 
-// addUser
+// POST - addUser
 export async function POST(request: Request) {
   // This is what we send from the Postman or ThunderClient body
   const user = await request.json();
