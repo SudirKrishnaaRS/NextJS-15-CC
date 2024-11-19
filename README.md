@@ -38,9 +38,12 @@
 
 ![image](https://github.com/user-attachments/assets/671d38c4-1bdd-49c1-ac29-a1a2cac64618)
 
+***
 
 
+# Routing ‐ App Router
 
+![image](https://github.com/user-attachments/assets/ad0ce8cf-4edc-4918-8ea7-3fe7edbbef59)
 
 
 
