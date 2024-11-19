@@ -46,6 +46,18 @@
 ![image](https://github.com/user-attachments/assets/ad0ce8cf-4edc-4918-8ea7-3fe7edbbef59)
 
 
+## Basic Files
+
+`page.tsx` : 
+* Consists of the JSX/TSX responsible for the UI
+
+`layout.tsx` : 
+* Layouts allow you to define Ul that is shared between multiple pages 
+* Useful for elements like headers, footers, or navigation menus that you want to appear consistently across different routes
+* When navigating between pages that share a layout, only the page components update - the layout doesn't re-render 
+* This leads to improved performance and a smoother user experience 
+* They also help reduce code duplication and improve the overall structure of your project
+
 
 
 
