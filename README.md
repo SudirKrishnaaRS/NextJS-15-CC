@@ -1,4 +1,4 @@
-# Please refer to the `wiki` page https://github.com/SudirKrishnaaRS/NextJS-15-CC/wiki to view the notes
+# Please refer to the `wiki` page https://github.com/SudirKrishnaaRS/NextJS-15-CC/wiki to view the detailed chapter wise notes
 
 
 
