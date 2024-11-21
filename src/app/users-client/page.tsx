@@ -10,6 +10,7 @@ type User = {
 };
 
 // Data fetching in Client Components (Same old convention)
+// Just don't forget to add "use client"
 const UsersClient = () => {
   const [users, setUsers] = useState<User[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
