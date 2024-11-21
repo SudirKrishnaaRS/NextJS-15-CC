@@ -9,6 +9,7 @@ type User = {
   phone: string;
 };
 
+// Data fetching in Client Components (Same old convention)
 const UsersClient = () => {
   const [users, setUsers] = useState<User[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
