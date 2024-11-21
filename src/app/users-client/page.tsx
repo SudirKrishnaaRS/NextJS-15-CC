@@ -46,12 +46,12 @@ const UsersClient = () => {
 
   return (
     <ul className="space-y-4 p-4">
-      {users.map((users) => (
+      {users.map((user) => (
         <li
           className="p-4 bg-white shadow-sm rounded-lg text-gray-700"
-          key={users.id}
+          key={user.id}
         >
-          {users.name} ({users.email})
+          {user.name} ({user.email})
         </li>
       ))}
     </ul>
