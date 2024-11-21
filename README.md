@@ -58,6 +58,16 @@
 * This leads to improved performance and a smoother user experience 
 * They also help reduce code duplication and improve the overall structure of your project
 
+## Basic Route
+
+**Folder Structure** : `App -> about (Folder) -> page.tsx (file)`
+
+![image](https://github.com/user-attachments/assets/090c5b76-54cd-4da4-b37f-aef13c270863)
+
+**Route** : `/about`
+
+![image](https://github.com/user-attachments/assets/42150d98-c79d-4e24-8010-91cdb3c15802)
+
 
 
 
