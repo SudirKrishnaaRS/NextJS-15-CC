@@ -69,7 +69,15 @@
 ![image](https://github.com/user-attachments/assets/42150d98-c79d-4e24-8010-91cdb3c15802)
 
 
+## Nested Route
 
+**Folder Structure** : `App -> blog (Folder) -> first-post (Folder) -> page.tsx (file)`
+
+![image](https://github.com/user-attachments/assets/ff10cf36-508b-4dfb-a3be-aeaa3347fb58)
+
+**Route** : `/blog/first-post`
+
+![image](https://github.com/user-attachments/assets/a415241d-c055-4617-9e3d-b20253554e14)
 
 
 
