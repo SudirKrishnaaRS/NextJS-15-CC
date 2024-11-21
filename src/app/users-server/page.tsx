@@ -8,7 +8,7 @@ type User = {
 
 // Data fetching in Server Components
 const UsersServer = async () => {
-  const response = await fetch("https://jsonplaceholderr.typicode.com/users");
+  const response = await fetch("https://jsonplaceholder.typicode.com/users");
   const users = await response.json();
 
   return (
