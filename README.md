@@ -80,7 +80,51 @@
 ![image](https://github.com/user-attachments/assets/a415241d-c055-4617-9e3d-b20253554e14)
 
 
+## Dynamic Route
 
+> ### Symbol: `[  ]`
+
+**Folder Structure** : `App -> products (Folder) -> [id] (Folder) -> page.tsx (file)`
+
+![image](https://github.com/user-attachments/assets/eef5cd28-1ace-4931-8e0b-9ded18db3bb3)
+
+**Route** : `/products/macbook`
+
+![image](https://github.com/user-attachments/assets/03f0ee2d-ee9b-42a9-9bde-673f16a76a4c)
+
+**Accessing the URL params from a dynamic route** : 
+
+![image](https://github.com/user-attachments/assets/c7d780d9-6e10-47a6-8015-51f5679dd921)
+
+## Categorise/Group related Routes (without affecting routing functionality)
+
+> ### Symbol: `(  )`
+
+**Folder Structure** : `App -> (auth) (Folder)`
+
+ `-> login (Folder) -> page.tsx (file)`
+                                             
+ `-> register (Folder) -> page.tsx (file)`
+
+ `-> forgot-password (Folder) -> page.tsx (file)`
+
+![image](https://github.com/user-attachments/assets/14c2ab14-bf01-431f-a4af-fe5157795c85)
+
+**Route** : 
+
+`/register`
+
+![image](https://github.com/user-attachments/assets/cbfc5da1-5537-4804-80d5-a972258874b5)
+
+`/login`
+
+![image](https://github.com/user-attachments/assets/b325a574-e92d-4c0e-bdc5-6a286957cb29)
+
+`/forgot-password`
+
+![image](https://github.com/user-attachments/assets/87b00b70-6bb4-40b7-8849-d10e3f225452)
+
+> NOTE: auth will not be part of the route as this helps in codebase maintenance to categorise/Group related Routes
 
 
 
