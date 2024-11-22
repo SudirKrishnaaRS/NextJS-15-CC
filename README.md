@@ -141,7 +141,15 @@ The below example shows how to apply active styles based on the current URL path
 
 
 
+## `useRouter()` hook - Programaticaly handle route 
 
+![image](https://github.com/user-attachments/assets/f31b744b-0039-4b4e-9ed6-5ada9808f43d)
+
+![image](https://github.com/user-attachments/assets/4e0856b6-7157-4c96-b60d-2bae5bda98fd)
+
+On click of `Go Home` button navigates to the home page
+
+![image](https://github.com/user-attachments/assets/f01edd91-0ae0-4765-99bd-85205d4f1548)
 
 
 
