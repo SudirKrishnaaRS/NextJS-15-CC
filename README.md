@@ -127,6 +127,13 @@
 > NOTE: auth will not be part of the route as this helps in codebase maintenance to categorise/Group related Routes
 
 
+## `<Link>` 
+
+![image](https://github.com/user-attachments/assets/4e7eaa6f-eca9-4dd4-942e-477ec765d2ed)
+
+![image](https://github.com/user-attachments/assets/3e919a76-c1e9-40cb-bcf1-08020e0a5b5b)
+
+
 
 
 
