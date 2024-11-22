@@ -134,7 +134,10 @@
 ![image](https://github.com/user-attachments/assets/3e919a76-c1e9-40cb-bcf1-08020e0a5b5b)
 
 
+## `usePathname()` hook - Determine the current pathname to apply the `active` style-class
 
+The below example shows how to apply active styles based on the current URL pathname using **Tailwind CSS**
+![image](https://github.com/user-attachments/assets/99e0e84f-a640-4ffb-8ac7-3af85fb3b13e)
 
 
 
