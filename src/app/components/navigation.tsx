@@ -36,6 +36,7 @@ const Navigation = () => {
       </Link>
 
       <SignInButton mode="modal" />
+      <UserButton />
     </nav>
   );
 };
