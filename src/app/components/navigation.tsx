@@ -1,4 +1,5 @@
 "use client";
+import { SignInButton, UserButton } from "@clerk/nextjs";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -6,7 +7,7 @@ const Navigation = () => {
   const pathname = usePathname();
 
   return (
-    <div>
+    <nav className="flex justify-center items-center p-4">
       <Link
         href={"/"}
         className={pathname === "/" ? "font-bold mr-4" : "mr-5 text-blue-500"}
@@ -33,7 +34,9 @@ const Navigation = () => {
       >
         Macbook
       </Link>
-    </div>
+
+      <SignInButton mode="modal" />
+    </nav>
   );
 };
 
