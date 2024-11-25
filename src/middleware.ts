@@ -1,6 +1,11 @@
-import { clerkMiddleware } from "@clerk/nextjs/server";
+import { clerkMiddleware, createRouteMatcher } from "@clerk/nextjs/server";
 
-export default clerkMiddleware();
+// Add your Protected Routes into this Array and clerk will take care of the rest(V.Easy)
+const isProtectedRoute = createRouteMatcher(["/mock-users"]);
+
+export default clerkMiddleware(async (auth, req) => {
+  if (isProtectedRoute(req)) await auth.protect();
+});
 
 export const config = {
   matcher: [
