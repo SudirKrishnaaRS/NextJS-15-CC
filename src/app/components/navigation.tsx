@@ -35,6 +35,7 @@ const Navigation = () => {
         Macbook
       </Link>
 
+      {/* Just wrap as to when the SignInButton should be shown (conditional Render) */}
       <SignedOut>
         <SignInButton mode="modal" />
       </SignedOut>
