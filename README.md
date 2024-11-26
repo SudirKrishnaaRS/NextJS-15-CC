@@ -154,9 +154,11 @@ On click of `Go Home` button navigates to the home page
 
 ***
 
+# Data Fetching
 
+> HINT (V.Easy Concept): In the Client Component, you can use async-await only inside useEffect(), whereas in Server Component you can make the function itself async and then directly await (Refer to the below code files to understand more)
 
-
+# Data fetching in Client Component
 
 
 
