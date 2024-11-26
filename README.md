@@ -160,6 +160,22 @@ On click of `Go Home` button navigates to the home page
 
 # Data fetching in Client Component
 
+**Folder Structure:**
+
+![image](https://github.com/user-attachments/assets/b2c120b6-ef73-4275-8c9a-e6e338ae35b9)
+
+
+**Code:** 
+
+![image](https://github.com/user-attachments/assets/aa0b087a-fdef-4daf-9bd4-7c2906301af9)
+
+
+**Output:**
+
+![image](https://github.com/user-attachments/assets/c09b482f-a019-4ffb-836d-b4e0372a917c)
+
+
+***
 
 
 
