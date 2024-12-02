@@ -177,7 +177,60 @@ On click of `Go Home` button navigates to the home page
 
 ***
 
+***
 
+# Data fetching in Server Component
+
+**File Naming:**
+
+> NOTE: below file names are the naming-convention so that NextJS understands and maps the file based on the API fetch status - loading / failure / success
+
+* `page.tsx`    -> Shown when the API data is fetched **successfully**
+
+* `loading.tsx`   -> Shown when an API is **loading**
+
+* `error.tsx` -> Shown when there's an error while fetching an API **fails**
+
+
+**Folder Structure:**
+
+![image](https://github.com/user-attachments/assets/b5b4b559-3320-4dbb-a1b8-03851d248c2b)
+
+
+**Code:** 
+
+* `page.tsx` 
+
+![image](https://github.com/user-attachments/assets/4f9eec36-811f-4b77-bd3d-a14447f9afe1)
+
+* `loading.tsx` 
+
+![image](https://github.com/user-attachments/assets/b577d426-cf2b-4f22-93e4-898d13da4957)
+
+
+* `error.tsx`
+![image](https://github.com/user-attachments/assets/f7fe96d6-0d53-4b91-bb70-3433754ceb77)
+
+
+
+**Output:**
+
+* **API Success:**
+
+![image](https://github.com/user-attachments/assets/5efa8035-8f8d-4945-a022-0def2c5054bd)
+
+
+* **API Loading:**
+
+![image](https://github.com/user-attachments/assets/33d28f37-7e7e-4bd2-9f57-a1ba7a00d4de)
+
+ 
+* **API Error:**
+
+![image](https://github.com/user-attachments/assets/2b845254-755a-455b-b5b8-34d13a64dc6e)
+
+
+***
 
 
 
