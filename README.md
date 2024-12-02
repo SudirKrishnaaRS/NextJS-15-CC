@@ -177,13 +177,11 @@ On click of `Go Home` button navigates to the home page
 
 ***
 
-***
-
 # Data fetching in Server Component
 
 **File Naming:**
 
-> NOTE: below file names are the naming-convention so that NextJS understands and maps the file based on the API fetch status - loading / failure / success
+> NOTE: below file names are the naming convention so that NextJS understands and maps the file based on the API fetch status - loading / failure / success
 
 * `page.tsx`    -> Shown when the API data is fetched **successfully**
 
@@ -232,8 +230,13 @@ On click of `Go Home` button navigates to the home page
 
 ***
 
+# Which is Good for Data Fetching - Client or Server Components?
 
+### Server Component Advantages and UseCase
+![image](https://github.com/user-attachments/assets/0ce3a6bd-40ca-42d3-9d95-f5f2513cad9b)
 
+### Client Component UseCase
+![image](https://github.com/user-attachments/assets/18e097c3-4142-4a9d-afb2-39bb838d1c9d)
 
 
 ***
