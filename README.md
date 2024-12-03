@@ -241,6 +241,39 @@ On click of `Go Home` button navigates to the home page
 
 ***
 
+# Route Handlers ‐ Backend
+
+![image](https://github.com/user-attachments/assets/b26f698f-6bb5-4e5e-b68c-9147e34d4ee9)
+
+# `/users`
+
+### File Naming Convention: `route.ts` 
+
+## GET ->  getUsers
+
+**Folder Structure:**
+
+![image](https://github.com/user-attachments/assets/6af5f067-0387-4ba0-ba2f-fcc779ecf8e8)
+
+
+**Code:**
+
+![image](https://github.com/user-attachments/assets/f04fe626-3f4e-4667-a7af-feaa400d591e)
+
+
+**Thunder Client Output:**
+
+![image](https://github.com/user-attachments/assets/26004dd9-47df-4a39-b698-0f724180d885)
+
+
+***
+
+
+
+
+
+***
+
 # Running the Project
 
 
