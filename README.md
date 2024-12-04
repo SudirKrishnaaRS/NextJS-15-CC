@@ -268,6 +268,34 @@ On click of `Go Home` button navigates to the home page
 
 ***
 
+## POST -> addUser
+
+**Folder Structure:**
+Same file as above
+
+![image](https://github.com/user-attachments/assets/6af5f067-0387-4ba0-ba2f-fcc779ecf8e8)
+
+
+
+**Code:**
+
+![image](https://github.com/user-attachments/assets/8309103a-fe31-4b17-a6c4-d9d9002cd590)
+
+
+
+**Thunder Client Output:**
+
+**Adding a user via POST**
+![image](https://github.com/user-attachments/assets/439ed65f-ff95-44c6-9c7f-949c87efa726)
+
+**Checking if it reflects in the `users` array by hitting the GET**
+![image](https://github.com/user-attachments/assets/2810720c-dfb0-4f58-8a7b-57565f3ec085)
+
+
+
+***
+
+
 
 
 
