@@ -292,8 +292,32 @@ Same file as above
 ![image](https://github.com/user-attachments/assets/2810720c-dfb0-4f58-8a7b-57565f3ec085)
 
 
+***
+
+
+# `/users/id`
+
+### File Naming Convention: `[id]/route.ts` 
+
+## GET ->  getUserById
+
+**Folder Structure:**
+
+![image](https://github.com/user-attachments/assets/7cadef1d-1982-48bb-9e8b-7b145b1efdd6)
+
+
+**Code:**
+
+![image](https://github.com/user-attachments/assets/67c608f2-ee4d-47ef-9f9e-e5bcb96e418e)
+
+
+**Thunder Client Output:**
+
+![image](https://github.com/user-attachments/assets/3b17f018-53fc-4baa-9e4f-6b3588f67564)
+
 
 ***
+
 
 
 
