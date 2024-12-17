@@ -318,7 +318,56 @@ Same file as above
 
 ***
 
+***
 
+## PATCH ->  editUserbyId
+
+**Folder Structure:**
+Same file as above
+
+![image](https://github.com/user-attachments/assets/7cadef1d-1982-48bb-9e8b-7b145b1efdd6)
+
+
+**Code:**
+
+![image](https://github.com/user-attachments/assets/f9ac42e4-9488-4f46-9291-ab6dc7dba33d)
+
+
+**Thunder Client Output:**
+
+![image](https://github.com/user-attachments/assets/4d438eb7-3940-4101-b46c-b84ec28fb962)
+
+**Checking if it reflects in the `users` array by hitting the GET**
+
+![image](https://github.com/user-attachments/assets/24fd2aab-d666-4acb-b5f3-67f11f263412)
+
+
+***
+
+## DELETE ->  deleteUserbyId
+
+**Folder Structure:**
+Same file as above
+
+![image](https://github.com/user-attachments/assets/7cadef1d-1982-48bb-9e8b-7b145b1efdd6)
+
+
+**Code:**
+
+![image](https://github.com/user-attachments/assets/0d93f060-e431-4d3f-9236-a6411c214648)
+
+
+**Thunder Client Output:**
+
+![image](https://github.com/user-attachments/assets/859235af-1563-4a16-b062-e43b73137d53)
+
+
+**Checking if it reflects in the `users` array by hitting the GET**
+
+![image](https://github.com/user-attachments/assets/6a49870b-362f-43d0-84d9-d3b1a4e4a02f)
+
+
+***
 
 
 
