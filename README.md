@@ -369,6 +369,32 @@ Same file as above
 
 ***
 
+# Server Actions
+
+> Difficulty Level: Easy
+
+![image](https://github.com/user-attachments/assets/97fc2dbc-ccf9-44d5-bf9b-6985a0417c13)
+
+**Folder Structure:**
+
+![image](https://github.com/user-attachments/assets/7b2d6b23-02b8-4b1d-a6d7-0b9bd378495b)
+
+
+
+**Code:** 
+
+Below is the example of form handling via Server Action to add a User (via API - POST method)
+
+![image](https://github.com/user-attachments/assets/3c98a2f0-0cdc-4f2b-a3c7-86d92116de02)
+
+
+
+**Output:**
+
+![image](https://github.com/user-attachments/assets/2e41b5ef-d903-4865-b9fc-4639fada014c)
+
+
+***
 
 
 
